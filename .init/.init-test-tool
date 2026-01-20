@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/professional-appointment-management-platform-201701-201710/asistente_mia_frontend"
+}
